@@ -15,7 +15,7 @@ Currently gaining hands-on experience through training and academic projects.
 ##  Skills
 - Python  
 - Data Analysis  
-- Machine Learning (basic)  
+- Machine Learning
 - Problem Solving
 - front/back end
 - databases
